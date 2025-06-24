@@ -4,7 +4,7 @@ Comprehensive Excel project on Amazon case study, including complete dataset, an
 ## **Project Topic**: Amazon Product Review Analysis 
 
 ### **Project Overview**
-#### Case Study Context 
+#### **Case Study Context**
 This project is part of an internship simulation at *RetailTech Insights*, an e-commerce analytics firm. As a Junior Data Analyst, the goal is to analyze Amazon product and customer review data to uncover actionable insights that can guide:
 
 - Product improvement
@@ -13,7 +13,7 @@ This project is part of an internship simulation at *RetailTech Insights*, an e-
 
 - Customer engagement
 
-#### Dataset Description
+#### **Dataset Description**
 The dataset was sourced from Amazon product pages and contains:
 
 - Product Information: Name, category, price, discount, average rating
@@ -22,7 +22,7 @@ The dataset was sourced from Amazon product pages and contains:
 
 - Each row represents a unique product, with some fields (e.g. reviews) containing aggregated or comma-separated values.
 
-#### Analysis Objectives
+#### **Analysis Objectives**
 Using Excel tools such as Pivot Tables, Conditional Formatting, and Calculated Columns, the project answers the following key business questions:
 
 - Average discount percentage by category
@@ -53,7 +53,7 @@ Using Excel tools such as Pivot Tables, Conditional Formatting, and Calculated C
 
 - Top 5 products based on combined rating and review count
 
-#### Final Task: Excel Dashboard
+#### **Final Task**: *Excel Dashboard*
 A clean, interactive Excel dashboard is created based on the insights generated. This includes:
 
 - Key performance indicators (KPIs)
@@ -64,7 +64,7 @@ A clean, interactive Excel dashboard is created based on the insights generated.
 
 - Dynamic summaries for category- and product-level insights
 
-#### Tools Used
+#### **Tools Used**
 1 Microsoft Excel
 
 2 Pivot Tables
