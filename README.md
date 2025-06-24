@@ -16,42 +16,42 @@ This project is part of an internship simulation at *RetailTech Insights*, an e-
 #### Dataset Description
 The dataset was sourced from Amazon product pages and contains:
 
-Product Information: Name, category, price, discount, average rating
+- Product Information: Name, category, price, discount, average rating
 
-Customer Engagement: Review counts, review titles, and content summaries
+- Customer Engagement: Review counts, review titles, and content summaries
 
-Each row represents a unique product, with some fields (e.g. reviews) containing aggregated or comma-separated values.
+- Each row represents a unique product, with some fields (e.g. reviews) containing aggregated or comma-separated values.
 
 #### Analysis Objectives
 Using Excel tools such as Pivot Tables, Conditional Formatting, and Calculated Columns, the project answers the following key business questions:
 
-Average discount percentage by category
+- Average discount percentage by category
 
-Product count per category
+- Product count per category
 
-Total number of reviews by category
+- Total number of reviews by category
 
-Top-rated products
+- Top-rated products
 
-Comparison of average actual price vs. discounted price
+- Comparison of average actual price vs. discounted price
 
-Most reviewed products
+- Most reviewed products
 
-Number of products with ≥50% discount
+- Number of products with ≥50% discount
 
-Distribution of product ratings (e.g., 3.0, 4.0, etc.)
+- Distribution of product ratings (e.g., 3.0, 4.0, etc.)
 
-Potential revenue by category (actual_price × rating_count)
+- Potential revenue by category (actual_price × rating_count)
 
-Product count by price range: < ₹200, ₹200–₹500, > ₹500
+- Product count by price range: < ₹200, ₹200–₹500, > ₹500
 
-Relationship between rating and discount
+- Relationship between rating and discount
 
-Products with fewer than 1,000 reviews
+- Products with fewer than 1,000 reviews
 
-Categories with highest-discounted products
+- Categories with highest-discounted products
 
-Top 5 products based on combined rating and review count
+- Top 5 products based on combined rating and review count
 
 #### Final Task: Excel Dashboard
 A clean, interactive Excel dashboard is created based on the insights generated. This includes:
