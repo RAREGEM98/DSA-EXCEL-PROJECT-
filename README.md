@@ -53,6 +53,15 @@ Using Excel tools such as Pivot Tables, Conditional Formatting, and Calculated C
 
 - Top 5 products based on combined rating and review count
 
+#### **Step by Step**
+1 Duplicates was removed from the *product_id* to ensure that all I.D is indeed unique
+
+2 The Category column was separated using the *text-to-column* to enable me interact with the categories at different levels
+
+3 The figures populated for the *discounted price*, *actual price*, *discounted parcentage*, *rating* and *rating count* was reviewed to confirm that all figures are correctly populated and errors was expunged and corrected
+
+4 
+
 #### **Final Task**: *Excel Dashboard*
 A clean, interactive Excel dashboard is created based on the insights generated. This includes:
 
