@@ -81,6 +81,10 @@ A clean, interactive Excel dashboard is created based on the insights generated.
 
 - Visualizations (bar, pie, line charts)
 
+- Below is the cleaned data, pivot table and dashboard
+
+-  [Amazon case study (cleaned).xlsx](https://github.com/user-attachments/files/21040326/Amazon.case.study.cleaned.xlsx)
+
 #### **Tools Used**
 1 Microsoft Excel
 
@@ -90,8 +94,10 @@ A clean, interactive Excel dashboard is created based on the insights generated.
 
 4 Conditional Formatting
 
+
 5 Charts and Graphs
 
 6 Dashboard Design
- 
- 
+
+
+
