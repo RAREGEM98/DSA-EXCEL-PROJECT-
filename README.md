@@ -4,6 +4,7 @@ Comprehensive Excel project on Amazon case study, including complete dataset, an
 ## **Project Topic**: Amazon Product Review Analysis 
 
 ### **Project Overview**
+
 #### **Case Study Context**
 This project is part of an internship simulation at *RetailTech Insights*, an e-commerce analytics firm. As a Junior Data Analyst, the goal is to analyze Amazon product and customer review data to uncover actionable insights that can guide:
 
