@@ -56,29 +56,37 @@ Using Excel tools such as Pivot Tables, Conditional Formatting, and Calculated C
 #### **Step by Step**
 1 Duplicates was removed from the *product_id* to ensure that all I.D is indeed unique
 
-2 The Category column was separated using the *text-to-column* to enable me interact with the categories at different levels
+2 The Category column was separated using the *text-to-column* to enable me interact with the categories at an understandable level
 
-3 The figures populated for the *discounted price*, *actual price*, *discounted parcentage*, *rating* and *rating count* was reviewed to confirm that all figures are correctly populated and errors was expunged and corrected
+3 The figures populated for the *discounted price*, *actual price*, *discounted parcentage*, *rating* and *rating count* was reviewed to confirm that all figures are correctly populated and errors was expunged or corrected
 
-4 
+4 The currency stated was inputted in the data set that involves money 
+
+5) The price range bucket column was calculated using the IF and OR function
+
+6) The discount rating of **50% or more** was calculated to answer the question *How many products have a discount of 50% or more?*
+
+7) Total potential revenue by category was calculated using the formular *(actual_price × rating_count)*
+
+8) To calculate the question *How many products have fewer than 1,000 reviews* **the countif function** was used
+
+9) Pivot tables was created for all listed questions
+
+10) Dashboard was created for specific pivot table as related to the earlier insight
 
 #### **Final Task**: *Excel Dashboard*
 A clean, interactive Excel dashboard is created based on the insights generated. This includes:
 
-- Key performance indicators (KPIs)
-
 - Interactive slicers and filters
 
 - Visualizations (bar, pie, line charts)
-
-- Dynamic summaries for category- and product-level insights
 
 #### **Tools Used**
 1 Microsoft Excel
 
 2 Pivot Tables
 
-3 Formulas (SUMIF, AVERAGEIF, IF, VLOOKUP, etc.)
+3 Formulas (COUNTIF, IF, OR, IFS, etc.)
 
 4 Conditional Formatting
 
